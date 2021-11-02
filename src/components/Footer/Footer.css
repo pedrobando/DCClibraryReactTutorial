@@ -1,0 +1,9 @@
+.footer{
+    padding: 1rem;
+    border-bottom: 1px solid black;
+}
+
+.footer h6{
+    font-weight: bold;
+    text-transform:uppercase;
+}
